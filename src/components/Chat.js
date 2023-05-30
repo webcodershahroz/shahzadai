@@ -29,7 +29,7 @@ export default function Chat() {
 
 
       const configuration = new Configuration({
-        apiKey: "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",
+        apiKey: "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",
       });
       const openai = new OpenAIApi(configuration);
 
