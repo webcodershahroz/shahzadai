@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/shahzadai/static/css/main.b02fa512.css",
-    "main.js": "/shahzadai/static/js/main.63066696.js",
+    "main.js": "/shahzadai/static/js/main.a3bfad69.js",
     "static/js/787.3f3fc261.chunk.js": "/shahzadai/static/js/787.3f3fc261.chunk.js",
     "static/media/bg.avif": "/shahzadai/static/media/bg.089f513f2c13f29ba34f.avif",
     "index.html": "/shahzadai/index.html",
     "main.b02fa512.css.map": "/shahzadai/static/css/main.b02fa512.css.map",
-    "main.63066696.js.map": "/shahzadai/static/js/main.63066696.js.map",
+    "main.a3bfad69.js.map": "/shahzadai/static/js/main.a3bfad69.js.map",
     "787.3f3fc261.chunk.js.map": "/shahzadai/static/js/787.3f3fc261.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b02fa512.css",
-    "static/js/main.63066696.js"
+    "static/js/main.a3bfad69.js"
   ]
 }
